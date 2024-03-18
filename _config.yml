@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Transitioning to a Machine # the main title
 
-tagline: Dumping all memory here until the system takes over completely # it will display as the sub-title
+tagline: Dumping memory here until the system takes over completely # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
