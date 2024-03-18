@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Transitioning to a Machine # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Dumping all memory here until the system takes over completely # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,7 +29,7 @@ github:
   username: vinaysudheer # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: VinaySudheer17 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/VinaySudheer17 # change to your twitter homepage
+    - https://github.com/vinaysudheer # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -66,7 +66,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
