@@ -34,7 +34,7 @@ My takeaways:
 
 My preparation started by the middle of April 2020 till the first week of June. During that period I practiced on the retired boxes in HackTheBox platform following the list which was curated by TJnull.
 
-![TJnull Boxes](/assets/images/OSCP/tjnull.png)
+![TJnull Boxes](/assets/img/OSCP/tjnull.png)
 
 I'd suggest to start off by rooting the easy machines first and then later move to the medium and hard ones. Initially when I started solving the machines I was only reliant on the walkthroughs as I wasn't able to root them on my own methodologies.
 Good authors of walkthroughs:
