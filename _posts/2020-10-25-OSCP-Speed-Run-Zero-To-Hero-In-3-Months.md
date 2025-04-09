@@ -7,10 +7,10 @@ tags: [OSCP, PWK, Offensive Security, Penetration Testing]
 pin: true
 math: true
 mermaid: true
-image:
-  path: #/commons/devices-mockup.png
-  lqip: #data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: #Responsive rendering of Chirpy theme on multiple devices.
+#image:
+  #path: #/commons/devices-mockup.png
+  #lqip: #data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  #alt: #Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 Another cliché OSCP review? Yes.
@@ -69,8 +69,8 @@ Reporting was the next step once the 24 hour exam got over. I took screenshot at
 
 - [OSCP HTB Walkthrough Playlist by @TJNull and @Ippsec](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
 - [g0tmi1k Linux Privesc Guide](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-- [Fuzzy Windows Privesc Guide](http://www.fuzzysecurity.com/tutorials/16.html)
+- [Fuzzy Windows Privesc Guide](https://www.fuzzysecurity.com/tutorials/16.html)
 - [Unix Binaries for Security Bypass](https://gtfobins.github.io/#)
 - [Windows Binaries for Security Bypass](https://lolbas-project.github.io/#)
 - [Buffer Overflow](https://github.com/justinsteven/dostackbufferoverflowgood)
-- [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+- [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)

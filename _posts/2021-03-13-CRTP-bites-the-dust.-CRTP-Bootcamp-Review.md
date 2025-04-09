@@ -7,10 +7,10 @@ tags: [CRTP, Pentester Academy, Windows Active Directory, Red Teaming]
 pin: true
 math: true
 mermaid: true
-image:
-  path: #/commons/devices-mockup.png
-  lqip: #data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: #Responsive rendering of Chirpy theme on multiple devices.
+#image:
+  #path: #/commons/devices-mockup.png
+  #lqip: #data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  #alt: #Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 It was back in August 2020 that I achieved the OSCP certification. Ever since I cleared the OSCP I was searching for which certification to take next, sadly, it took me 6 months to finally make up my mind and to enroll for the CRTP certification. I chose to go for CRTP purely due to the fact that it's an introductory level Active Directory certifcation, and in this course the instructor Nikhil Mittal takes the beginners approach in the 4 live sessions that we have with him. Nikhil is also the author of [Nishang](https://github.com/samratashok/nishang), a popular collection of scripts which is used in Penetration Testing and Red Teaming.
@@ -54,4 +54,4 @@ The very next day my lab access ended, I took the exam. The exam is an assumed b
 - [PowerView Cheatsheet](https://github.com/HarmJ0y/CheatSheets/blob/master/PowerView.pdf)
 - [ired.team](https://www.ired.team/)
 - [The Dog Whisperers Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/)
-- [Nikhil's Personal Blog](http://www.labofapenetrationtester.com/)
+- [Nikhil's Personal Blog](https://www.labofapenetrationtester.com/)
