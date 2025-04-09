@@ -1,6 +1,6 @@
 ---
 title: Landing Your First InfoSec Job
-author: Vinay
+author: vinay
 date: 2020-08-15
 categories: [Introduction]
 tags: [Introduction]
