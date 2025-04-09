@@ -1,6 +1,6 @@
 ---
 title: OSCP Speed Run - Zero to Hero in 3 Months
-author: Vinay Sudheer
+author: Vinay
 date: 2020-10-25
 categories: [Review]
 tags: [OSCP, PWK, Offensive Security, Penetration Testing]

@@ -1,6 +1,6 @@
 ---
 title: CRTP bites the dust. CRTP Bootcamp Review
-author: Vinay Sudheer
+author: Vinay
 date: 2021-03-13
 categories: [Review]
 tags: [CRTP, Pentester Academy, Windows Active Directory, Red Teaming]
