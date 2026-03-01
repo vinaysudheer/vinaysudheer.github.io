@@ -139,13 +139,13 @@ Because if you don’t speak about what you want, the world cannot respond.
 
 ## Sources (further reading)
 
-•	https://pubmed.ncbi.nlm.nih.gov/31414830/ 
-•	https://journals.sagepub.com/doi/10.1177/01461672251382271 
-•	https://www.researchgate.net/publication/24354628_When_Intentions_Go_Public 
-•	https://www.inc.com/melissa-chu/announcing-your-goals-makes-you-less-likely-to-ach.html 
-•	https://journals.sagepub.com/doi/abs/10.1177/1559827616638017
-•	https://www.researchgate.net/publication/43193998_Making_goal_pursuit_effective_Expectancy-dependent_goal_setting_and_planned_goal_striving 
-•	https://medium.com/publishous/talking-about-your-goals-with-your-peers-reduces-the-probability-of-you-achieving-them-c119306214c5
-•	https://medium.com/swlh/the-positive-fantasy-trap-why-its-a-bad-idea-to-tell-people-your-goals-125bcd87eddc
+*	https://pubmed.ncbi.nlm.nih.gov/31414830/ 
+*	https://journals.sagepub.com/doi/10.1177/01461672251382271 
+*	https://www.researchgate.net/publication/24354628_When_Intentions_Go_Public 
+*	https://www.inc.com/melissa-chu/announcing-your-goals-makes-you-less-likely-to-ach.html 
+*	https://journals.sagepub.com/doi/abs/10.1177/1559827616638017
+*	https://www.researchgate.net/publication/43193998_Making_goal_pursuit_effective_Expectancy-dependent_goal_setting_and_planned_goal_striving 
+*	https://medium.com/publishous/talking-about-your-goals-with-your-peers-reduces-the-probability-of-you-achieving-them-c119306214c5
+*	https://medium.com/swlh/the-positive-fantasy-trap-why-its-a-bad-idea-to-tell-people-your-goals-125bcd87eddc
 
 
