@@ -14,7 +14,9 @@ image:
 ---
 
 Imagine this, you’re looking for a new job, or a mentor or a partner for a business idea.
+
 But you keep it quiet.
+
 Then a month later you find out your friend’s cousin was hiring, your coworker knew the perfect recruiter, and your neighbor literally does the thing you’re trying to learn… but nobody told you, because nobody knew.
 This is the problem with the popular advice “don’t tell people your goals.” It sounds wise and feels safe. It even has some research behind it.
 But taken as a rule for life, it can backfire. There are people out there that can lend you a hand, but can’t help with what they don’t know that you want. 
